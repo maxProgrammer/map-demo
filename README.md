@@ -1,2 +1,2 @@
 # map-demo
-practing map recourse
+practicing map recourse
